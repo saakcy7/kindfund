@@ -1,0 +1,1 @@
+KindFund is a Sui blockchain-based donation platform that enables users to securely donate SUI tokens to a charity. It includes a Move smart contract for on-chain donation handling and a Node.js backend to record, display, and manage donation details transparently.
